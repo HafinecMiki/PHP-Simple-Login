@@ -8,9 +8,9 @@ Run in Xampp Controll Panel Apache server and move the project to C:\xampp\htdoc
 
 Users:
 
-------------------------
+
 Username: admin1
 Password: password1
-------------------------
+
 Username: admin2
 Password: password2
