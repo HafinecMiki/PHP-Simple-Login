@@ -7,6 +7,8 @@ https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.4/xampp-windows
 Run in Xampp Controll Panel Apache server and move the project to C:\xampp\htdocs folder.
 
 Users:
+
+------------------------
 Username: admin1
 Password: password1
 ------------------------
